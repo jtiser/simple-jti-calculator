@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleJtiCalculator", "SimpleJtiCalculator\SimpleJtiCalculator.csproj", "{3ECAD926-FE10-43EC-9B3F-73E672DD8C1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleJtiCalculatorTests", "SimpleJtiCalculatorTests\SimpleJtiCalculatorTests.csproj", "{23529079-5328-473C-A120-66B418F038E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ECAD926-FE10-43EC-9B3F-73E672DD8C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECAD926-FE10-43EC-9B3F-73E672DD8C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECAD926-FE10-43EC-9B3F-73E672DD8C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECAD926-FE10-43EC-9B3F-73E672DD8C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23529079-5328-473C-A120-66B418F038E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23529079-5328-473C-A120-66B418F038E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23529079-5328-473C-A120-66B418F038E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23529079-5328-473C-A120-66B418F038E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
